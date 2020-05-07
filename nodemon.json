@@ -1,8 +1,8 @@
 {
   "watch": [
-    "src"
+    "index.js",
+    "lib/*"
   ],
-  "ext": "ts",
   "ignore": [],
-  "exec": "tsc && homebridge -I -D"
+  "exec": "homebridge -I -D"
 }
