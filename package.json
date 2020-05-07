@@ -24,8 +24,8 @@
     "homebridge-plugin"
   ],
   "dependencies": {
-    "child_process": "*",
-    "tuyapi": "git://github.com/ncovercash/tuyapi.git#feature-heartbeat-event"
+    "child_process": "^1.0.2",
+    "tuyapi": "^5.3.0"
   },
   "devDependencies": {
     "homebridge": "*",
