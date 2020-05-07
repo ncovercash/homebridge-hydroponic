@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "Hydroponics (myLumii)",
+  "pluginAlias": "Hydroponics",
   "pluginType": "platform",
   "singular": false,
   "headerDisplay": "Use [TuyaAPI/cli](https://github.com/TuyaAPI/cli) to link devices and get the ID/key.",
