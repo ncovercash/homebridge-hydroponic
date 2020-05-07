@@ -4,7 +4,7 @@
   "author": "ncovercash",
   "version": "1.0.3",
   "description": "Links homebridge my personal hydroponic setup with a myLumii grow lamp.",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/ncovercash/homebridge-hydroponic.git"
