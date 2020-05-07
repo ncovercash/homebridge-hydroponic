@@ -1,0 +1,27 @@
+{
+  "pluginAlias": "Hydroponics (myLumii)",
+  "pluginType": "platform",
+  "singular": false,
+  "headerDisplay": "Use [TuyaAPI/cli](https://github.com/TuyaAPI/cli) to link devices and get the ID/key.",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "title": "Name",
+        "type": "string",
+        "default": "Hydroponic Lamp",
+        "required": true
+      },
+      "id": {
+        "title": "ID",
+        "type": "string",
+        "required": true
+      },
+      "key": {
+        "title": "Key",
+        "type": "string",
+        "required": true
+      }
+    }
+  }
+}
