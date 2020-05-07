@@ -17,8 +17,7 @@
     "homebridge": ">0.4.53"
   },
   "scripts": {
-    "watch": "nodemon",
-    "prepublishOnly": "npm run lint && npm run build"
+    "watch": "nodemon"
   },
   "main": "index.js",
   "keywords": [
