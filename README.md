@@ -4,7 +4,7 @@ A homebridge plugin to interact with a myLumii light (for hydroponics) over the 
 
 Originally, I tried using the various existing Tuya platform plugins, however, I found them to be unresponsive with the Home app and generally incompatible with my device.  Additionally, I did not wish to use any that used Tuya's web API, as I intended to firewall this device from the internet.  Therefore, I built my own.
 
-This does not necessarily need to be a platform, however, I engineered it with this architecture in mind for extensibiliyy.
+This does not necessarily need to be a platform, however, I engineered it with this architecture in mind for extensibility.
 
 ## Installation
 Install this plugin using `npm i -g homebridge-hydroponic`.
