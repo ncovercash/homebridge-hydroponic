@@ -2,7 +2,7 @@
   "displayName": "Hydroponic System with myLumii",
   "name": "homebridge-hydroponic",
   "author": "ncovercash",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "description": "Links homebridge my personal hydroponic setup with a myLumii grow lamp.",
   "license": "Apache-2.0",
   "repository": {
