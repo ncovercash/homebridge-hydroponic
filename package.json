@@ -25,7 +25,7 @@
   ],
   "dependencies": {
     "child_process": "^1.0.2",
-    "tuyapi": "^5.3.0"
+    "tuyapi": "^7.2.1"
   },
   "devDependencies": {
     "homebridge": "*",
